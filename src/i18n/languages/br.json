@@ -1,3 +1,7 @@
 {
-  "test": "Teste"
+  "test": "Teste",
+  "startGame": "Iniciar Jogo",
+  "idiom": "Idioma",
+  "hunger": "Fome",
+  "cry": "Chorar"
 }
