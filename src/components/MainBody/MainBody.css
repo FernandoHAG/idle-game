@@ -1,0 +1,12 @@
+.mainBody {
+  .body {
+    height: calc(100vh - 61.25px);
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+}
